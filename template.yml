@@ -1,0 +1,6 @@
+--- 
+- name: Generate phone config
+  hosts: localhost
+  gather_facts: no
+  roles:
+  - phone

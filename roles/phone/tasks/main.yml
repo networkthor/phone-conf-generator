@@ -1,0 +1,24 @@
+---
+- name: Create directory
+  file:
+          state: directory
+          path: "{{ item.region }}"
+  loop: "{{ phones }}"
+- name: generate phone config
+  template:
+          src: "{{ item.model }}.j2"
+          dest: "{{ item.region }}/SEP{{ item.mac }}.cnf.xml"
+  loop: "{{ phones }}"
+
+- name: generate phone ITL
+  copy:
+          content: ""
+          dest: "{{ item.region }}/ITLSEP{{ item.mac }}.tlv"
+  loop: "{{ phones }}"
+
+- name: generate phone CTL
+  copy:
+          content: ""
+          dest: "{{ item.region }}/CTLSEP{{ item.mac }}.tlv"
+  loop: "{{ phones }}"
+

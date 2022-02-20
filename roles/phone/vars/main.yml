@@ -1,0 +1,289 @@
+---
+phones:
+  - number: 0900
+    model: 7975
+    mac: BCC493A4F45B
+    name: Baimukash Baurzhan
+    region: karaganda
+  
+  - number: 0901
+    model: 78XX
+    mac: 70D37946659A
+    name: Rakhimov Askar
+    region: karaganda
+    
+  - number: 0902
+    model: 78XX
+    mac: 2C5741F9D6E9
+    name: Bayzakov Armat
+    region: karaganda
+    
+  - number: 0903
+    model: 78XX
+    mac: BC971C318B9A
+    name: Ospanov Azamat
+    region: karaganda
+    
+  - number: 0904
+    model: 78XX
+    mac: F4BD9EF24A59
+    name: Selkebai Kanysh
+    region: karaganda
+  
+  - number: 0905
+    model: 69XX
+    mac: D0C78914D109
+    name: Satayev Assylbek
+    region: karaganda
+    
+  - number: 0906
+    model: 69XX
+    mac: D0C78914D084
+    name: Kuzhakmetov Rustem
+    region: karaganda
+    
+  - number: 0907
+    model: 78XX
+    mac: 2С5741F9D36C
+    name: Aimagambetova Lyazzat
+    region: karaganda
+    
+  - number: 0908
+    model: 78XX
+    mac: C4440759BFC
+    name: Toskanbayev Meirzhan
+    region: karaganda
+  
+  - number: 0909 
+    model: 78XX
+    mac: BC671C31E86B
+    name: Nurpeisov Darkhan
+    region: karaganda
+    
+  - number: 0910
+    model: 69XX
+    mac: 30F70DADCC6E
+    name: Litovchenko Aleksei
+    region: karaganda
+    
+  - number: 0911
+    model: 39XX
+    mac: B07D47C114AB
+    name: Makashev Bolat
+    region: karaganda
+    
+  - number: 0912
+    model: 69XX
+    mac: D0C78914CEDF
+    name: Seimuldayeva Aksunkar
+    region: karaganda
+  
+  - number: 0913 
+    model: 78XX
+    mac: 2C5741F9D39C
+    name: Rakhmetov Rolan
+    region: karaganda
+    
+  - number: 0914
+    model: 7911
+    mac: 0023EB54AC2C
+    name: Aliyeva Meruert
+    region: karaganda
+    
+  - number: 0915
+    model: 7911
+    mac: 000E083B4E49
+    name: Zhaksybekova Bagdagul
+    region: karaganda
+    
+  - number: 0916 
+    model: 78XX
+    mac: BC671C31E72D
+    name: Kulumbayeva Aniya
+    region: karaganda
+    
+  - number: 0917
+    model: 78XX
+    mac: C444A0759C5C
+    name: Baisarina Nazym
+    region: karaganda
+    
+  - number: 0918
+    model: 78XX
+    mac: 2C5741F9D391
+    name: Beisengaliyeva Miramkul
+    region: karaganda
+    
+  - number: 0919
+    model: 78XX
+    mac: F4BD9EF28BBA
+    name: Syzdykova Madina
+    region: karaganda
+  
+  - number: 0920 
+    model: 7911
+    mac: 0026994312E2
+    name: Kosyak Ekaterina
+    region: karaganda
+    
+  - number: 0921
+    model: 69XX
+    mac: 20BBC01F8313
+    name: Musayeva Assel
+    region: karaganda
+    
+  - number: 0922
+    model: 78XX
+    mac: BC671C318CE9
+    name: Zhukin Bekzat
+    region: karaganda
+    
+  - number: 0923
+    model: linksys
+    mac: C444A0759C54
+    name: Amirov Daulet
+    region: karaganda
+    
+  - number: 0924
+    model: 69XX
+    mac: D0C78914D0EB
+    name: Nurbekov Dulat
+    region: karaganda
+  
+  - number: 0925 
+    model: 78XX
+    mac: CC8E71CF0480
+    name: Makeev Aleksandr
+    region: karaganda
+    
+  - number: 0926
+    model: 78XX
+    mac: C444A0759D5A
+    name: Kaishenov Daniyar
+    region: karaganda
+    
+  - number: 0927
+    model: linksys
+    mac: 000E08D3F584
+    name: Mellyatov Dauren
+    region: karaganda
+    
+  - number: 0928 
+    model: 7911
+    mac: 64A0E7F6A64A
+    name: Egisinov Ernat
+    region: karaganda
+    
+  - number: 0929
+    model: 7911
+    mac: 00260BD8A5E7
+    name: Zhamenova Malika
+    region: karaganda
+    
+  - number: 0930
+    model: 69XX
+    mac: 30F70DADCCF7
+    name: Tultayev Ermek
+    region: karaganda
+    
+  - number: 0931
+    model: linksys
+    mac: 000E08D3F9E5
+    name: Akhmetova Daniya
+    region: karaganda
+    
+  - number: 0932 
+    model: 7911
+    mac: 00269943D57E
+    name: Verzhak Dariya
+    region: karaganda
+    
+  - number: 0933
+    model: 69XX
+    mac: 30F70DADCCE6
+    name: Arinova Arailym
+    region: karaganda
+    
+  - number: 0934
+    model: 7911
+    mac: 00269943D164
+    name: Kaliyeva Samal
+    region: karaganda
+    
+  - number: 0935 
+    model: 78XX
+    mac: 848А8D6940D6
+    name: Esengeldy Aigerim
+    region: karaganda
+    
+  - number: 0936
+    model: 78XX
+    mac: CC8E71CF050A
+    name: Beisembekova Sabira
+    region: karaganda
+    
+  - number: 0937
+    model: 7911
+    mac: 64А0Е7F60EA0
+    name: Tlegen Meiramgul
+    region: karaganda
+    
+  - number: 0938
+    model: 69XX
+    mac: 20BBC01F8DB5
+    name: Bazarov Tleukabyl
+    region: karaganda
+    
+  - number: 0939
+    model: linksys
+    mac: 000E083CFE27
+    name: Rakhimov Bakhtiyar
+    region: karaganda
+    
+  - number: 0940
+    model: 69XX
+    mac: 30F70DADCC64
+    name: Barkhanoev Aliskhan
+    region: karaganda
+    
+  - number: 0941 
+    model: 7911
+    mac: 00269943CD32
+    name: Biurabekov Murat
+    region: karaganda
+    
+  - number: 0942
+    model: 78XX
+    mac: CC8E71CF04C9
+    name: Meirmanov Maksut
+    region: karaganda
+    
+  - number: 0943
+    model: 78XX
+    mac: С444А0759С12
+    name: Torebek Birlik
+    region: karaganda
+    
+  - number: 0944 
+    model: 69XX
+    mac: 500604FA1D5F
+    name: Alpisov Azamat
+    region: karaganda
+    
+  - number: 0945
+    model: 69XX
+    mac: D0C78814CFDC
+    name: Musilimov Ilyas
+    region: karaganda
+
+  - number: 0946
+    model: 69XX
+    mac: 20BBCC1F8302
+    name: Prokofyeva Olesya
+    region: karaganda
+    
+  - number: 0947
+    model: linksys
+    mac: 000E08D88861
+    name: Urbisinova Assel
+    region: karaganda
